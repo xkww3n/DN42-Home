@@ -9,8 +9,8 @@ main{
     padding-right: 1.5rem;
     padding-left: 1.5rem;
     text-align: center;
-    margin-bottom: 3rem;
-    margin-top: 3rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
 }
 
 header{
@@ -31,10 +31,7 @@ h1 {
 p.alt {
     margin-top: 0;
     margin-bottom: 1rem;
-    margin-top: 0;
-    margin-bottom: 1rem;
     color: #888;
-    font-size: 0.8rem;
     font-size: 0.8rem;
 }
 
